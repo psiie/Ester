@@ -1,0 +1,22 @@
+{
+  "name": "ester",
+  "displayName": "Ester - Candy Theme",
+  "description": "Candy Theme by Darkenvy",
+  "version": "1.0.0",
+  "publisher": "Darkenvy",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ester",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ester-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ester",
+  "version": "1.0.0",
+  "description": "A Colorful candy theme for VSCode and tmTheme supported text editors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "candy",
+    "theme",
+    "vscode",
+    "tmTheme",
+    "dark"
+  ],
+  "author": "darkenvy",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "path": "^0.12.7",
+    "tmtheme-to-json": "^0.1.3"
+  }
+}
